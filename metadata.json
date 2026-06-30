@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Pronósticos Mundial 2026",
+  "description": "Aplicación oficial del Torneo de Pronósticos del Mundial 2026 con sincronización con Google Sheets, reglas oficiales de puntuación, desempates automáticos y Reyes de Fase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
